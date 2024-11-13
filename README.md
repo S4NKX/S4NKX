@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @S4NKX
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently studing a degree in Biomedical Engineer in Chile
+- 🌱 I’m currently studing a degree of Biomedical Engineer in Chile
 - I am rookie
